@@ -1,2 +1,18 @@
-# US-Police-Shootings-Data-Analysis
-An analysis of fatal police shootings in the US (2015-2017) correlated with socioeconomic census data.
+# Analysis of Fatal Police Shootings in the US
+
+## Project Overview
+This project investigates the relationship between fatal police encounters and 
+city-level demographics including poverty rates, high school graduation rates, and racial makeup.
+
+## Datasets Used
+- **Washington Post:** Fatal police shootings (2015-2017).
+- **US Census Bureau:** Socioeconomic data (poverty, income, education, race).
+
+## Key Findings
+- **Disproportionality:** Black and Hispanic populations are killed at higher rates relative to their population share.
+- **Socioeconomic Link:** A negative correlation exists between high school graduation rates and poverty levels in incident locations.
+- **Mental Health:** ~25% of individuals killed showed signs of mental illness.
+
+## Tools Used
+- Python (Pandas, NumPy)
+- Visualizations (Matplotlib, Seaborn, Plotly)

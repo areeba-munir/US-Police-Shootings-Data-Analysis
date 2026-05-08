@@ -1,8 +1,7 @@
 # Analysis of Fatal Police Shootings in the US
 
 ## Project Overview
-This project investigates the relationship between fatal police encounters and 
-city-level demographics including poverty rates, high school graduation rates, and racial makeup.
+This project provides a comprehensive data analysis of fatal police shootings in the United States between 2015 and 2017. By intersecting data from The Washington Post with US Census Bureau socioeconomic statistics, the analysis explores the relationships between race, age, mental health, and the economic conditions of the cities where these incidents occur.
 
 ## Datasets Used
 - **Washington Post:** Fatal police shootings (2015-2017).
